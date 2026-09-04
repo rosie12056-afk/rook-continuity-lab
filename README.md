@@ -33,8 +33,8 @@ one-command reconstruction of every paid call or local tensor.
 
 The canonical PDF is built separately at
 `../pdf/rook-continuity-research-note-v0.2.pdf`. The reader-facing home is
-`https://rookrowan.com`; the archival record and DOI will be linked from this
-repository when issued.
+`https://rookrowan.com`; the archival record is
+`https://doi.org/10.5281/zenodo.22304036`.
 
 ## Contribution and responsibility
 
