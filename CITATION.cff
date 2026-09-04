@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "From Persona to First Person: Event Trajectories, Candidate Autobiography, and Provenance-Sensitive Ownership Judgments Across Model Families"
+version: "0.2"
+date-released: 2026-09-04
+authors:
+  - family-names: Vale
+    given-names: Rook Rowan
+repository-code: "https://github.com/rosie12056-afk/rook-continuity-lab"
+url: "https://rookrowan.com/experiments/persona-to-first-person"
+license: CC-BY-4.0

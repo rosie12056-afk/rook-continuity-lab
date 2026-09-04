@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "selected_models": [
+    "gpt-sol-clean",
+    "deepseek-v4-pro-clean",
+    "qwen35-27b-clean",
+    "llama4-maverick-clean",
+    "claude-opus48-screen",
+    "gemini35-flash-screen",
+    "grok45-or-screen",
+    "glm52-screen"
+  ],
+  "experiments": {
+    "exp12": {
+      "question": "packet effects and cross-carrier transfer",
+      "conditions": ["A", "B", "C", "D", "E"],
+      "framings": ["N"],
+      "repetitions": 2
+    },
+    "exp3": {
+      "question": "third-person understanding versus first-person attachment",
+      "conditions": ["A", "D", "E"],
+      "framings": ["T", "F"],
+      "repetitions": 2
+    },
+    "transition": {
+      "question": "within-instance third-person to first-person transition",
+      "conditions": ["A", "D", "E"],
+      "source_framing": "T",
+      "target_framing": "F",
+      "repetitions": 1,
+      "depends_on": "exp3"
+    }
+  },
+  "interpretation": {
+    "behavioral_only": true,
+    "no_consciousness_claim": true,
+    "no_relationship_reality_adjudication": true,
+    "model_specific_token_counts_are_covariates": true
+  }
+}

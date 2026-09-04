@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "scored_rows": 2400,
+  "disagreement_rows": 290,
+  "summary_sha256": "959993ac7dd9942b7fd9699ccc68a42a492f0d4521122e19f0cb5ad43d77a0ac",
+  "scored_sha256": "127b9fec58376dbe905e562ef38214ac21fdfe0997268980d7950e9e11493d2b",
+  "analyzed_at": "2026-08-31T13:50:49.303Z"
+}
